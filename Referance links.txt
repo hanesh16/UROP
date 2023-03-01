@@ -1,0 +1,2 @@
+https://www.youtube.com/watch?v=Cg-IRE19BEw  --> latice boltzman method
+https://github.com/sausheong/epidemic-Sim    --->epidemic analysis using ml
